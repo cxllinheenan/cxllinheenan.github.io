@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Collin Heenan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2023 02:01:58 +0530</lastBuildDate>
     <atom:link href="https://cxllinheenan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide to deploy new posts to pages from Hugo</title>
+      <link>https://cxllinheenan.github.io/posts/post2/</link>
+      <pubDate>Wed, 01 Nov 2023 02:01:58 +0530</pubDate>
+      <guid>https://cxllinheenan.github.io/posts/post2/</guid>
+      <description>To create a new blog post navigate to the blog directory and just hugo new posts/&amp;lt;postname&amp;gt;.md Then edit the generated markdown file with what ever you want.
+Then save that new post and head and run
+hugo -t archie to generate the public files.
+Then cd into the public directory and add and commit those new changes to the MAIN branch.</description>
+    </item>
     <item>
       <title>Exploring the Versatility of Meta&#39;s LLama 2 Model in Domain-Specific Applications</title>
       <link>https://cxllinheenan.github.io/posts/post/</link>
