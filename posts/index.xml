@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Collin Heenan</title>
+    <link>https://cxllinheenan.github.io/posts/</link>
+    <description>Recent content in Posts on Collin Heenan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="https://cxllinheenan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Versatility of Meta&#39;s LLama 2 Model in Domain-Specific Applications</title>
+      <link>https://cxllinheenan.github.io/posts/post/</link>
+      <pubDate>Fri, 01 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>https://cxllinheenan.github.io/posts/post/</guid>
+      <description>Unleashing the Power of Large-Scale Language Models In the rapidly evolving field of machine learning, the implementation of large-scale language models stands as a beacon of progress and potential. My recent project, centered on Meta&amp;rsquo;s 7 billion parameter LLama 2 Model, epitomizes this advancement, showcasing the remarkable adaptability of such models across various domains.
+The Genesis of the Project The inception of this endeavor was rooted in a straightforward yet ambitious objective: to harness the sophisticated capabilities of Meta&amp;rsquo;s LLama 2 Model and tailor it for specific industries.</description>
+    </item>
+  </channel>
+</rss>

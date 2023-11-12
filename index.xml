@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Collin Heenan</title>
+    <link>https://cxllinheenan.github.io/</link>
+    <description>Recent content on Collin Heenan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2023 02:01:58 +0530</lastBuildDate>
+    <atom:link href="https://cxllinheenan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://cxllinheenan.github.io/projects/</link>
+      <pubDate>Sun, 12 Nov 2023 12:24:47 -0500</pubDate>
+      <guid>https://cxllinheenan.github.io/projects/</guid>
+      <description>Collin Heenan&amp;rsquo;s Projects Welcome to my projects page! Here, you&amp;rsquo;ll find a collection of my work in Economics, Computer Science, and Machine Learning. Each project reflects my passion for data-driven insights and innovative solutions.
+Domain-Specific Applications of Meta&amp;rsquo;s 7b Parameter LLama 2 Model Overview Description: This project involves the adaptation of Meta&amp;rsquo;s 7 billion parameter LLama 2 Model into a series of domain-specific models. The project showcases the potential of large-scale language models in specialized contexts.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://cxllinheenan.github.io/about/</link>
+      <pubDate>Sun, 12 Nov 2023 12:19:17 -0500</pubDate>
+      <guid>https://cxllinheenan.github.io/about/</guid>
+      <description>Hello! I&amp;rsquo;m Collin Heenan, a driven second-year undergrad specializing in Economics and Computer Science. At the core of my academic pursuits is a deep engagement with Machine Learning and Quantitative Research. I&amp;rsquo;m particularly fascinated by the intricacies of Language Models, exploring how these sophisticated algorithms can process, understand, and generate human-like text.
+My focus lies in the technical aspects of Machine Learning - from neural network architectures to algorithm optimization. I&amp;rsquo;m passionate about harnessing these technologies to develop more efficient and accurate models, especially those that can analyze and interpret large datasets with minimal human intervention.</description>
+    </item>
+    <item>
+      <title>Exploring the Versatility of Meta&#39;s LLama 2 Model in Domain-Specific Applications</title>
+      <link>https://cxllinheenan.github.io/posts/post/</link>
+      <pubDate>Fri, 01 Sep 2023 02:01:58 +0530</pubDate>
+      <guid>https://cxllinheenan.github.io/posts/post/</guid>
+      <description>Unleashing the Power of Large-Scale Language Models In the rapidly evolving field of machine learning, the implementation of large-scale language models stands as a beacon of progress and potential. My recent project, centered on Meta&amp;rsquo;s 7 billion parameter LLama 2 Model, epitomizes this advancement, showcasing the remarkable adaptability of such models across various domains.
+The Genesis of the Project The inception of this endeavor was rooted in a straightforward yet ambitious objective: to harness the sophisticated capabilities of Meta&amp;rsquo;s LLama 2 Model and tailor it for specific industries.</description>
+    </item>
+  </channel>
+</rss>
