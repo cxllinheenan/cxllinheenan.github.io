@@ -6,8 +6,16 @@
     <description>Recent content on Collin Heenan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2023 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 13 Nov 2023 20:11:21 -0500</lastBuildDate>
     <atom:link href="https://cxllinheenan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achieving GPT-4 Like Results with Sub-10B Parameter Models</title>
+      <link>https://cxllinheenan.github.io/posts/post3/</link>
+      <pubDate>Mon, 13 Nov 2023 20:11:21 -0500</pubDate>
+      <guid>https://cxllinheenan.github.io/posts/post3/</guid>
+      <description>Introduction The realm of AI has witnessed a trend towards ever-larger models like GPT-4, with tens of billions of parameters. However, recent advancements have shown that smaller models, those with less than 10 billion parameters, can achieve comparable results. The key lies in focusing on two critical aspects: the quality of the training data and the implementation of innovative architectural changes.
+High-Quality Data is Crucial The effectiveness of a language model is largely determined by the quality of its training data.</description>
+    </item>
     <item>
       <title>Projects</title>
       <link>https://cxllinheenan.github.io/projects/</link>
