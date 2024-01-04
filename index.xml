@@ -50,5 +50,13 @@ Then cd into the public directory and add and commit those new changes to the MA
       <description>Unleashing the Power of Large-Scale Language Models In the rapidly evolving field of machine learning, the implementation of large-scale language models stands as a beacon of progress and potential. My recent project, centered on Meta&amp;rsquo;s 7 billion parameter LLama 2 Model, epitomizes this advancement, showcasing the remarkable adaptability of such models across various domains.
 The Genesis of the Project The inception of this endeavor was rooted in a straightforward yet ambitious objective: to harness the sophisticated capabilities of Meta&amp;rsquo;s LLama 2 Model and tailor it for specific industries.</description>
     </item>
+    <item>
+      <title>The impact of economic factors on tourism in Spain</title>
+      <link>https://cxllinheenan.github.io/posts/tourism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cxllinheenan.github.io/posts/tourism/</guid>
+      <description>The Impact of Economic Factors on Tourism in Spain The study explores the role of economic factors like tourist spending, exchange rates, and consumer prices in shaping tourism trends, while revealing a more distinct relationship with inflation.
+Spending Effect on Tourism The analysis vividly illustrates the pivotal role of tourist spending in boosting tourism numbers. The regression coefficient for Spending is a robust 827.8632, indicating a positive impact. This substantial figure suggests that an increment of one unit in tourist spending correlates with an increase of approximately 827 tourists.</description>
+    </item>
   </channel>
 </rss>
