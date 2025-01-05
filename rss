@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss version="2.0">
+    <channel>
+        <title>My Portfolio</title>
+        <link>https://cxllinheenan.github.io</link>
+        <description>This is my portfolio RSS feed</description>
+        <item>
+          <title>New website & some thoughts</title>
+          <link>https://cxllinheenan.github.io/blog/first</link>
+          <description>Explore the enduring debate between using spaces and tabs for code indentation, and why this choice matters more than you might think.</description>
+          <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+  </rss>
