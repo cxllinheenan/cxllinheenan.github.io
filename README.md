@@ -1,3 +1,3 @@
 # Personal site
 
-## Built with Next.js 
+Built with Next.js 
