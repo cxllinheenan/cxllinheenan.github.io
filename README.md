@@ -83,7 +83,7 @@ NEXT_PUBLIC_SITE_URL=https://yoursite.com
 
 ## Deployment
 
-The site is set up for deployment on GitHub Pages. Push to main branch to trigger automatic deployment.
+The site is set up for deployment on GitHub Pages. Push to gh-pages branch to trigger automatic deployment.
 
 ## License
 
