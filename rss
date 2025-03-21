@@ -5,6 +5,12 @@
         <link>https://cxllinheenan.github.io</link>
         <description>This is my portfolio RSS feed</description>
         <item>
+          <title>LLaMa Architecture in MLX</title>
+          <link>https://cxllinheenan.github.io/blog/llama</link>
+          <description>Full implementation of the LLaMA transformer Architecture from scratch in MLX</description>
+          <pubDate>Fri, 28 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>New website & some thoughts</title>
           <link>https://cxllinheenan.github.io/blog/first</link>
           <description>Explore the enduring debate between using spaces and tabs for code indentation, and why this choice matters more than you might think.</description>
